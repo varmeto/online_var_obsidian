@@ -4,6 +4,7 @@
 
 #  概述
 此笔记记录obsidian插件digital garden用于发布笔记到网络。
+我懒得写想写步骤，建议直接看参考资料自己搞。
 免费
 # 使用步骤
 1. obsidian下载插件Digital Garden。之后你可以阅读官方文档：[dg-docs.ole.dev](https://dg-docs.ole.dev/getting-started/01-getting-started/)或继续按照我的步骤
