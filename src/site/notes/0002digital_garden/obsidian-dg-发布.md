@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"创建日期":"2024-09-21 16:36","dg-publish":true,"permalink":"/0002digital_garden/obsidian-dg-发布/","dgPassFrontmatter":true}
+{"aliases":["笔记发布","托管"],"tags":null,"创建日期":"2024-09-21 16:36","dg-publish":true,"permalink":"/0002digital_garden/obsidian-dg-发布/","dgPassFrontmatter":true}
 ---
 
 #  概述
