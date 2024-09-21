@@ -15,3 +15,6 @@
 # 参考资料与链接
 - [Obsidian 最简单的发布分享方式 - 经验分享 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/19256)
 - [【Obsidian】人人都可以构建的 属于自己的独立网站 | Obsidian 发布、数字花园打造 | 渐进创作_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1HF411173m/)
+## 附带语法
+dg-publish: true
+dg-home: true
