@@ -5,7 +5,10 @@
 #  概述
 简要描述笔记的主题或主要内容。
 # 正文
+## 教程
+
 ---
 # 参考资料与链接
-- [Deploy details | Deploys | lustrous-moxie-0db143 | Netlify](https://app.netlify.com/sites/lustrous-moxie-0db143/deploys/66ee73ec11703301e3bfa60b)我的netlify仓库
+- https://app.netlify.com/teams/varmeto我的netlify仓库
+- [online_var_obsidian/src/site/notes at main · varmeto/online_var_obsidian (github.com)](https://github.com/varmeto/online_var_obsidian/tree/main/src/site/notes)
 
