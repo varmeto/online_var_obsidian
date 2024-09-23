@@ -1,5 +1,5 @@
 ---
-{"aliases":"qq空间记录，","标题":"qq空间记录获取（三方可视化版本）","创建时间":"2024-09-21 11:44","tags":null,"dg-publish":true,"permalink":"/5000/5200github/qq/","dgPassFrontmatter":true}
+{"aliases":"qq空间记录，","标题":"qq空间记录获取（三方可视化版本）","创建时间":"2024-09-21 11:44","tags":null,"dg-publish":true,"permalink":"/5000工具/5200github/qq空间记录获取（三方可视化版本）/","dgPassFrontmatter":true}
 ---
 
 # 介绍
