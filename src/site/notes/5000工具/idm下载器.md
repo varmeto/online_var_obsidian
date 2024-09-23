@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"标题":"idm下载器","创建时间":"2024-09-21 17:08","tags":null,"dg-publish":true,"permalink":"/5000工具/idm下载器/","dgPassFrontmatter":true}
+{"aliases":null,"标题":"idm下载器","创建时间":"2024-09-21 17:08","tags":null,"dg-publish":true,"permalink":"/5000/idm/","dgPassFrontmatter":true}
 ---
 
 # 链接

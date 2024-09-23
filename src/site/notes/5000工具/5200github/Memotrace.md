@@ -1,5 +1,5 @@
 ---
-{"aliases":"微信聊天记录导出,微信备份","标题":"Memotrace","创建时间":"2024-09-21 17:01","tags":null,"dg-publish":true,"permalink":"/5000工具/5200github/Memotrace/","dgPassFrontmatter":true}
+{"aliases":"微信聊天记录导出,微信备份","标题":"Memotrace","创建时间":"2024-09-21 17:01","tags":null,"dg-publish":true,"permalink":"/5000/5200github/memotrace/","dgPassFrontmatter":true}
 ---
 
 # 简介
@@ -11,3 +11,4 @@
 # 本地文件夹位置
 [MemoTrace](file:///D:%5CMemoTrace)
 [Memotrace2](file:///D:%5CMemotrace2)
+

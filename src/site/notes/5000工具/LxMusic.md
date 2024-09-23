@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"标题":"LxMusic","创建时间":"2024-09-21 17:11","tags":null,"dg-publish":true,"permalink":"/5000工具/LxMusic/","dgPassFrontmatter":true}
+{"aliases":null,"标题":"LxMusic","创建时间":"2024-09-21 17:11","tags":null,"dg-publish":true,"permalink":"/5000/lx-music/","dgPassFrontmatter":true}
 ---
 
 # 简介洛雪音乐

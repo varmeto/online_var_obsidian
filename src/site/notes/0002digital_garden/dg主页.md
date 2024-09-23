@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["gardenEntry"],"创建日期":"2024-09-21 16:05","dg-publish":true,"dg-home":true,"permalink":"/0002digital_garden/dg主页/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["gardenEntry"],"创建日期":"2024-09-21 16:05","dg-publish":true,"dg-home":true,"permalink":"/0002digital-garden/dg/","dgPassFrontmatter":true}
 ---
 
 # 欢迎来到varmeto的obsidian世界 🌱
