@@ -10,7 +10,8 @@ keypad制造计划
 介绍，这是一个完整的，一系列的，附带说明的制造指南。
 截图![Pasted image 20241008090451.jpg](/img/user/Pasted%20image%2020241008090451.jpg)
 - github地址：[9R/replicazeron (github.com)](https://github.com/9R/replicazeron)
-- 教学视频：[Alvaro Rosati - Azeron Keypad DiY Tutorial (google.com)](https://sites.google.com/view/alvaro-rosati/azeron-keypad-diy-tutorial)
+- 教学网站：[Alvaro Rosati - Azeron Keypad DiY Tutorial (google.com)](https://sites.google.com/view/alvaro-rosati/azeron-keypad-diy-tutorial)
+- YouTube：[How to make a Custom Keypad DIY - BEST Controller for Fortnite and Warzone - YouTube](https://www.youtube.com/watch?v=XEGVGHatWbk&embeds_referring_euri=https%3A%2F%2Fsites.google.com%2F&source_ve_path=OTY3MTQ)
 
 ### 2.免费版，包括3d打印和程序，但非常简陋
 [Ergonomic Gamepad Inspired by Azeron by 1cheeseball1 - Thingiverse](https://www.thingiverse.com/thing:4832101)
