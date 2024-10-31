@@ -13,6 +13,11 @@
 [GitHub - Huibq/keep-alive: 洛雪音乐音源、MusicFree音源、落雪音乐音源](https://github.com/Huibq/keep-alive)
 # 使用
 下载软件后
-设置->基本设置->自定义源管理->在线导入->粘贴https://raw.niuma666bet.buzz/Huibq/keep-alive/master/render_api.js->粘贴后在音乐来源选项下打钩启用导入的源
+设置->基本设置->自定义源管理->在线导入->粘贴
+```
+https://raw.niuma666bet.buzz/Huibq/keep-alive/master/render_api.js
+```
+->粘贴后在音乐来源选项下打钩启用导入的源
 # 导入歌单
+
 https://docs.lxmusic.top/desktop/document/songlist/open.html#%E5%9B%BE%E7%89%87%E6%95%99%E7%A8%8B
