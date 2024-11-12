@@ -20,4 +20,11 @@ https://raw.niuma666bet.buzz/Huibq/keep-alive/master/render_api.js
 ->粘贴后在音乐来源选项下打钩启用导入的源
 # 导入歌单
 
-https://docs.lxmusic.top/desktop/document/songlist/open.html#%E5%9B%BE%E7%89%87%E6%95%99%E7%A8%8B
+[导入歌单的教程](https://docs.lxmusic.top/desktop/document/songlist/open.html#%E5%9B%BE%E7%89%87%E6%95%99%E7%A8%8B)
+
+# 其他的链接
+
+网易云音乐我的收藏：
+```
+https://music.163.com/playlist?id=482024260&uct2=U2FsdGVkX1/boJbjnavS2KvY/ZIuhJ5BeEC3hGCtfS4=
+```
