@@ -11,7 +11,7 @@
 	2. 网站的链接是：https://www.chatopens.com/list
 2. 登陆之后，往下翻，绿色代表这个账号当前使用人数少，红色则是爆满。如果点击右上角的“开始对话”，就会自动进入一个节点（但是有时候进去的节点会用不了，那么自己手动挑一个吧）
 3. 选择节点之后，你就可以跟gpt对话了！如图：
-![1734668042286.png](/img/user/0002digital_garden/1734668042286.png)
+![chatopens截图.png](/img/user/0002digital_garden/chatopens%E6%88%AA%E5%9B%BE.png)
 
 # 如何高效使用GPT
 这里是一些很简单的小技巧了，我觉得每个人都该会。
